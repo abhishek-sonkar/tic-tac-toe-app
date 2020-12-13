@@ -1,0 +1,14 @@
+.grid-item {
+    height: 70px;
+    width: 70px;
+    background-color: #aaa;
+    border: 4px solid #333;
+    margin: 2px;
+    font-size: 60px;
+    font-family: 'Arial';
+    text-align: center;
+}
+
+.grid-item:hover {
+    background-color:#EE82EE;
+}
